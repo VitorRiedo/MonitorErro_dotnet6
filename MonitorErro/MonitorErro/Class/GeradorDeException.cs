@@ -20,6 +20,7 @@ namespace MonitorErro.Class
 
         public GeradorDeException()
         {
+			//teste vitor parte 1
         }
 
         public void GetException()
